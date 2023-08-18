@@ -1,0 +1,7 @@
+server:
+  port: 8083
+
+person:
+  name: "王五"
+  age: 20
+  message: 888

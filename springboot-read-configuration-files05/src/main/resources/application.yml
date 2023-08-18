@@ -1,0 +1,7 @@
+server:
+  port: 8085
+
+person:
+  name: "zhaoliu"
+  age: 22
+  message: 666

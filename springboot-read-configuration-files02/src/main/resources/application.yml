@@ -1,0 +1,7 @@
+server:
+  port: 8082
+
+person:
+  name: "李四"
+  age: 19
+  message: 777
